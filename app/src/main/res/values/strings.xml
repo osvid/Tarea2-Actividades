@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tarea2</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="nombre">Nombre</string>
+    <string name="edad">Edad</string>
+    <string name="correo">Correo</string>
+    <string name="btn_enviar">Enviar</string>
+    <string name="valores">Valores</string>
+    <string name="btn_cerrar">Cerrar</string>
+</resources>
